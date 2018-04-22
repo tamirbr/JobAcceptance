@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head th:replace="layout :: head('error')"></head>
+<body>
+<style>
+    .app-error {
+        margin-top: 20px;
+        border: 1px solid #dad7de;
+        padding: 10px;
+        background-color: #f7f5fa;
+        border-radius: 6px;
+    }
+</style>
+<div th:replace="layout :: top"></div>
+
+<div class="container">
+    <br/>
+    <h2 th:text="|${#httpServletRequest.getAttribute('javax.servlet.error.status_code')} Error|">500 Error</h2>
+</div>
+
+</body>
+</html>
