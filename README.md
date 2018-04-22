@@ -1,10 +1,10 @@
-# Deloitte JobAcceptance
-Spring boot + hibernate + Swagger-UI work for deloitte.
+# Deloitte Job Acceptance
+Spring boot + hibernate + Swagger-UI work for Deloitte.
 
 Made with IntelliJ IDEA
 
-Swagger-UI can be seen working on this address: https://www.shifti.info/deloitte/swagger-ui.html
+Swagger-UI can be seen working at this address: https://www.shifti.info/deloitte/swagger-ui.html
 
-Simple client side can be seen on this address: https://www.shifti.info/deloitte
+Client side can be seen at this address: https://www.shifti.info/deloitte
 
-The code has been uploaded to github as requested
+The code has been uploaded to GitHub as requested
